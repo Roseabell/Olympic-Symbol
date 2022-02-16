@@ -1,0 +1,11 @@
+h1{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+}
+#canvas{
+    background-color: white;
+    border-width: 10px;
+    border-style: ridge;
+    text-align: center;
+}
